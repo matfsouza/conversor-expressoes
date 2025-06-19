@@ -1,17 +1,8 @@
 # 🧮 Calculadora de Expressões Pós-fixadas
 
-<!-- Substitua o título acima pelo nome do seu projeto e escolha um emoji que combine! -->
-
-<p align="center">
-  <img src="https://placehold.co/600x300/1e1e2e/a9b1d6?text=Imagem+do+Projeto" alt="Imagem de demonstração do projeto">
-  <!-- OPCIONAL: Se tiver um print da tela do seu programa, pode colocar aqui. Se não, pode apagar esta seção. -->
-</p>
-
 ## 📝 Descrição
 
 Este projeto é uma implementação em **C** de uma calculadora capaz de avaliar expressões matemáticas escritas na notação pós-fixada (ou polonesa reversa). O programa utiliza a estrutura de dados de **pilha (stack)**, definida em `expressao.h`, para realizar os cálculos de forma eficiente.
-
-<!-- Descreva seu projeto aqui. O que ele faz? Qual problema ele resolve? Qual foi o objetivo? -->
 
 ---
 
@@ -21,8 +12,6 @@ Este projeto é uma implementação em **C** de uma calculadora capaz de avaliar
 * **Suporte aos Operadores Básicos:** Adição (`+`), Subtração (`-`), Multiplicação (`*`) e Divisão (`/`).
 * **Interface de Linha de Comando:** O usuário insere a expressão diretamente no terminal.
 * **Validação de Expressão (Opcional):** Verifica se a expressão fornecida é válida antes de calcular.
-
-<!-- Liste as principais características do seu projeto. Seja direto e use tópicos. -->
 
 ---
 
@@ -34,8 +23,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * **Compilador:** gcc
 * **Estrutura de Dados:** Pilha (Stack) implementada em `expressao.h`
 * **Bibliotecas Padrão:** `<stdio.h>`, `<stdlib.h>`, `<string.h>`
-
-<!-- Liste as ferramentas, linguagens e bibliotecas que você usou. -->
 
 ---
 
